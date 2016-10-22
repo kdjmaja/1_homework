@@ -1,0 +1,5 @@
+D:\C#\1_homework\3_zadatak\GenericListWithIEnumerable\GenericListWithIEnumerable\bin\Debug\GenericListWithIEnumerable.exe.config
+D:\C#\1_homework\3_zadatak\GenericListWithIEnumerable\GenericListWithIEnumerable\bin\Debug\GenericListWithIEnumerable.exe
+D:\C#\1_homework\3_zadatak\GenericListWithIEnumerable\GenericListWithIEnumerable\bin\Debug\GenericListWithIEnumerable.pdb
+D:\C#\1_homework\3_zadatak\GenericListWithIEnumerable\GenericListWithIEnumerable\obj\Debug\GenericListWithIEnumerable.exe
+D:\C#\1_homework\3_zadatak\GenericListWithIEnumerable\GenericListWithIEnumerable\obj\Debug\GenericListWithIEnumerable.pdb
