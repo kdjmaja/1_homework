@@ -1,6 +1,0 @@
-D:\C#\1_homework\2_zadatak\ListOfGenericsWithIEnumerable\ListOfGenericsWithIEnumerable\bin\Debug\ListOfGenericsWithIEnumerable.exe.config
-D:\C#\1_homework\2_zadatak\ListOfGenericsWithIEnumerable\ListOfGenericsWithIEnumerable\obj\Debug\ListOfGenericsWithIEnumerable.csprojResolveAssemblyReference.cache
-D:\C#\1_homework\2_zadatak\ListOfGenericsWithIEnumerable\ListOfGenericsWithIEnumerable\bin\Debug\ListOfGenericsWithIEnumerable.exe
-D:\C#\1_homework\2_zadatak\ListOfGenericsWithIEnumerable\ListOfGenericsWithIEnumerable\bin\Debug\ListOfGenericsWithIEnumerable.pdb
-D:\C#\1_homework\2_zadatak\ListOfGenericsWithIEnumerable\ListOfGenericsWithIEnumerable\obj\Debug\ListOfGenericsWithIEnumerable.exe
-D:\C#\1_homework\2_zadatak\ListOfGenericsWithIEnumerable\ListOfGenericsWithIEnumerable\obj\Debug\ListOfGenericsWithIEnumerable.pdb
