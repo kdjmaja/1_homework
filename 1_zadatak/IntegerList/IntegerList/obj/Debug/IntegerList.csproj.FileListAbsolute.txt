@@ -1,0 +1,5 @@
+D:\C#\1_homework\1_zadatak\IntegerList\IntegerList\bin\Debug\IntegerList.exe.config
+D:\C#\1_homework\1_zadatak\IntegerList\IntegerList\bin\Debug\IntegerList.exe
+D:\C#\1_homework\1_zadatak\IntegerList\IntegerList\bin\Debug\IntegerList.pdb
+D:\C#\1_homework\1_zadatak\IntegerList\IntegerList\obj\Debug\IntegerList.exe
+D:\C#\1_homework\1_zadatak\IntegerList\IntegerList\obj\Debug\IntegerList.pdb

@@ -1,0 +1,5 @@
+D:\C#\1_homework\2_zadatak\ListOfGenerics\ListOfGenerics\bin\Debug\ListOfGenerics.exe.config
+D:\C#\1_homework\2_zadatak\ListOfGenerics\ListOfGenerics\bin\Debug\ListOfGenerics.exe
+D:\C#\1_homework\2_zadatak\ListOfGenerics\ListOfGenerics\bin\Debug\ListOfGenerics.pdb
+D:\C#\1_homework\2_zadatak\ListOfGenerics\ListOfGenerics\obj\Debug\ListOfGenerics.exe
+D:\C#\1_homework\2_zadatak\ListOfGenerics\ListOfGenerics\obj\Debug\ListOfGenerics.pdb
